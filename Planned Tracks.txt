@@ -1,0 +1,44 @@
+Settings:
+Airport
+- Palm Trees
+- Planes/Helicopters flying around Level
+- Freeway on/off ramps
+
+Docks
+- Cranes
+- Ships
+- Warehouses
+
+Coastal Drive
+- Palm Trees
+- Power Lines
+
+Downtown
+- Power Lines
+- Sky Scrapers
+- Hills up and Down
+- Multi-level Carparks
+- Alleyways
+- Trams (ding ding)
+- Trains 
+- Flinders St Station
+- Cathedral
+
+Bush Bash
+- Windmill
+- Transmission lines
+- Freeways
+- Tunnels
+- Mountains
+- Bridges
+
+Freeway
+- Off/On Ramps
+- Petrol Stations
+- Bridges
+
+Hills
+- Adelaide Hills
+- Tunnels
+- Power Transmission Lines
+
