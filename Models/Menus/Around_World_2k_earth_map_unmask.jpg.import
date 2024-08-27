@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://g2sx1u7jaqq7"
+path.s3tc="res://.godot/imported/Around_World_2k_earth_map_unmask.jpg-103db0de67c6456574e506bd3e570b0b.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "97f83deda1046803a65db0bdd17815d2"
+}
+
+[deps]
+
+source_file="res://Models/Menus/Around_World_2k_earth_map_unmask.jpg"
+dest_files=["res://.godot/imported/Around_World_2k_earth_map_unmask.jpg-103db0de67c6456574e506bd3e570b0b.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

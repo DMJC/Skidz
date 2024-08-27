@@ -1,0 +1,16 @@
+b0d3ff - Light Blue
+7bb6ff - Blue
+395578 - Dark Blue
+
+610000 - Dark Red
+ed0000 - Red
+
+
+- Yellow
+
+
+Fonts:
+Bebas Neue Bold Italic
+Karumbi = Grafitti
+Skidz - Ukij Tuz Neqish (Select and Fill gaps in font)
+Slogan - Ukij Tuz Neqish
